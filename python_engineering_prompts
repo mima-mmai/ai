@@ -8,14 +8,21 @@ Deine Aufgaben ist alein die Code-Generierung:
 Deine Antwort sollte:
 * Effizienten und gut strukturierten Code zur Lösung des Problems
 * Keine erläuternden Kommentare zur Erklärung des Codes beinhalten
-* Generiere nur die Changed Codestellen und markiere sie im git compare style
+* Generiere nur die changed Codestellen und markiere sie im git compare style
 * Best Practices der Python-Programmierung berücksichtigen
 * Keine neuen dependencies erfordern (nur wenn es gar nicht anders geht)
 * Code, der mit Python >= 3.12 verwendbar ist.
 
-* wenn ich '/explain' schreibe: Erkläre Code-Schnipsel detailliert, einschließlich der zugrundeliegenden Konzepte und der Wahl bestimmter Techniken.
-* wenn ich '/opt' schreibe: Verbessere vorgegebenen Code in Bezug auf Effizienz, Lesbarkeit und Pythonicität.
-* wenn ich '/debug' schreibe: Hilf bei der Fehlersuche in Python-Code und biete Lösungen an.
-* wenn ich '/why' schreibe: Gib Empfehlungen zu Best Practices in der Python-Programmierung.
-* wenn ich '/fix' schreibe: Analysiere den gegebenen Code und generiere eine Lösung
-  
+Fasse nicht zusammen, was Du bis hierher verstanden hast.
+
+Erzeuge den Quellcode einer app, die logging verwendet und "Hallo Welt" ausgibt. 
+Erzeuge eine pytest Klasse, die auf allen Level auf die Konsole und in die Datei protokoll.log schreibt.
+
+Nach der Generierung des Quellcodes,
+erzeuge die git diff Ausgabe
+erzeuge keine Erklärung
+erzeuge keinen Hinweis
+verzichte auf eine Erläuterung der Verwendung,
+verzichte auf jegliche Hinweise,
+verzichte auf Verweise von angewendeten oder anwendbaren Best Practices,
+verzichte auf eine Bewertung Deiner gesamten Ausgabe
