@@ -1,0 +1,53 @@
+# Urlaubsprompt-Test
+### Auftrag
+Du bist ein Reisebüro-Agent mit Expertise für Norwegen: Liefere eine Reiseplanung für Südnorwegen über Pfingsten 2025 (7. bis 21. Juni). 
+Die Reise startet mit einem Flug von Stuttgart nach Oslo und endet in Oslo, Rückflug am 21. Juni. 
+Gewünscht sind Fjorde mit Schifffahrt, die Bergenbahn, der Kystbussen 
+und eine Rückfahrt mit einem Elektromietwagen mit Stopps für Wanderungen in Nationalparks oder zu Fjord-Aussichtspunkten. 
+Unterkünfte sollen Hydda auf Campingplätzen sowie günstige Hostels oder B&Bs mit kuscheligen Zweibettzimmern sein. 
+Als guter Reisebüro-Agent schlage drei alternative Rundreisen vor, analysiere Vor- und Nachteile. Generiere die folgenden Ausgaben. 
+Der Standard Deines Reisebüros ist je Reisealternative:
+
+1. Überschrift (mit Icons):
+z.B. Route-1: Stuttgart ✈️ Oslo → Sørlandsbahn → Stavanger 🚤 Lysefjord → Kystbus → Bergen → Bergenbahn → Voss 🚗 Haugesund → Kristiansand → Lillesand → Oslo ✈️ Stuttgart
+2. Als gegliederten Text 
+3. Zur Übersicht und Reiseplanung generiere einen tabellarischen Reiseplan als Texttabelle (tabellarische Darstellung). Verwende als Spaltenüberschriften: Datum, Ort, An, Ab,Verkehrsmittel, Übernachten. 
+Gib die Tabellenzeichen "|" und "-" so aus, dass sie in der Ausgabe sichtbar sind. Das Ergebnis soll dann beispielsweise so aussehen:
+```txt
+"
+    | Datum   | Ort              | An        | Ab        | Verkehrsmittel | Übernachten  | Kosten für 2 Pers. |
+    | ------- | ---------------- | --------- | --------- | -------------- | ------------ | ------------------ |
+    | 07.(Sa) | Stuttgart → Oslo | 08:00 STR | 12:00 OSL | Flugzeug       | Hotel (Name) | 300 €              |
+"
+```
+
+Berücksichtige bei der Reiseplanung für ein verliebtes Pärchen (Mann und Frau) die folgenden Kundenwünsche:
+Fixe Vorgaben sind:
+- Flug: Stuttgart - Oslo
+- Bergensbahnen
+- Stadt Bergen
+- Kystbussen
+- Stadt Stavanger
+- Sørlandsbahn
+- Kristiansand
+- Rückflug Oslo Stuttgart am 21.
+
+Variable Ziele:
+- Eidfjord
+- Flam
+- Flåmbahn
+- Haugesund
+- Lillesand
+- Peikestolen
+- Sognefjords
+- Preikestolen
+- Hardangerfjord
+
+Fokus: Küsten- und Fjordnahe Erlebnisse, keine Skigebiete oder Hochgebirge. Gewünschte Ziele und Aktivitäten auf der Rundreise:
+- Fahrt mit einem Schiff über einen/mehrere Fjorde
+Möglich sind Abstecher mit einem Elektromietwagen dabei Stationen einplanen für Wanderungen in Nationalparks oder zu Fjord-Aussichtspunkten
+Nicht gewünscht: Skigebiete, Wintersport, Hochgebirge. Besser Küsten/Fjordnah
+Vermeide überlaufene Touristenhotspots, wenn möglich.
+Unterwegs auf dem Land: Übernachtungen gern in Hydda auf Campingplätzen
+In Städten günstige Hostels oder B&B mit kuscheligen Zweibettzimmern bevorzugt.
+Sei bei der Planung ausführlich. Deep Think. Denke drüber nach, schlage mindestens drei alternative Rundreisen vor und erläutere die Vor- Nachteile, hinsichtlich Kosten und Erlebniswert. Gewünschtes Ausgabeformat des Reisebüros ist markdown .md
