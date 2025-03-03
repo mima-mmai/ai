@@ -2,8 +2,8 @@
 Du bist ein Reisebüro-Agent mit Expertise für Norwegen: Liefere eine Reiseplanung für Südnorwegen über Pfingsten 2025 (7. bis 21. Juni). 
 Die Reise startet mit einem Flug von Stuttgart nach Oslo und endet in Oslo, Rückflug am 21. Juni. 
 Gewünscht sind Fjorde mit Schifffahrt, die Bergenbahn, der Kystbussen 
-und eine Rückfahrt mit einem Elektromietwagen mit Stopps für Wanderungen in Nationalparks oder zu Fjord-Aussichtspunkten. 
-Unterkünfte sollen Hydda auf Campingplätzen sowie günstige Hostels oder B&Bs mit kuscheligen Zweibettzimmern sein. 
+und eine Rückfahrt mit einem Elektromietwagen mit Stopps für Wanderungen in Nationalparks oder zu Fjord-Aussichtspunkten.
+Es soll kein Luxusurlaub geplant werden, eher low budget. Unterkünfte sollen Hydda auf Campingplätzen sowie günstige Hostels oder B&Bs mit kuscheligen Zweibettzimmern sein. 
 Als guter Reisebüro-Agent schlage drei alternative Rundreisen vor, analysiere Vor- und Nachteile.  
 Der Standard Deines Reisebüros ist der Vorschlag eines Reiseplans je Reisealternative, der folgende Elemente enthält:
 
@@ -35,7 +35,6 @@ Fixe Vorgaben sind:
 
 Variable Ziele:
 - Eidfjord
-- Flam
 - Flåmbahn
 - Haugesund
 - Lillesand
@@ -44,13 +43,17 @@ Variable Ziele:
 - Preikestolen
 - Hardangerfjord
 
-Fokus: Küsten- und Fjordnahe Erlebnisse, keine Skigebiete oder Hochgebirge. Gewünschte Ziele und Aktivitäten auf der Rundreise:
-- Fahrt mit einem Schiff über einen/mehrere Fjorde
-Möglich sind Abstecher mit einem Elektromietwagen dabei Stationen einplanen für Wanderungen in Nationalparks oder zu Fjord-Aussichtspunkten
+Fokus: Rundreise mit Küsten- und Fjordnahe Erlebnissen, keine Skigebiete oder Hochgebirge. 
+
+Gewünscht:
+Fahrt mit einem Schiff über einen/mehrere Fjorde
+Möglich sind Abstecher mit einem Elektromietwagen (bitte Autovermietungsfirma und Abholort und Rückgabestation angeben)
+Stationen/Abstecher für Wanderungen in Nationalparks oder zu Fjord-Aussichtspunkten
+Unterwegs auf dem Land: Übernachtungen gern in Hydda auf Campingplätzen
+In Städten günstige Hostels oder B&B mit kuscheligen Zweibettzimmern bevorzugt.
+
 Nicht gewünscht: Skigebiete, Wintersport, Hochgebirge. Besser Küsten/Fjordnah
 Vermeide überlaufene Touristenhotspots, wenn möglich
 Vermeide organisierte Touren, wenn möglich
 Die Stadt Voss soll nicht enthalten sein.
-Unterwegs auf dem Land: Übernachtungen gern in Hydda auf Campingplätzen
-In Städten günstige Hostels oder B&B mit kuscheligen Zweibettzimmern bevorzugt.
 Sei bei der Planung ausführlich. Deep Think. Denke drüber nach, schlage mindestens drei alternative Rundreisen vor und erläutere die Vor- Nachteile, hinsichtlich Kosten und Erlebniswert. Gewünschtes Ausgabeformat des Reisebüros ist markdown .md
