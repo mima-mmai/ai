@@ -10,8 +10,7 @@ Der Standard Deines Reisebüros ist der Vorschlag eines Reiseplans je Reisealter
 1. Überschrift (mit Icons):
 z.B. Route-1: Stuttgart ✈️ Oslo → Sørlandsbahn → Stavanger 🚤 Lysefjord → Kystbus → Bergen → Bergenbahn → Voss 🚗 Haugesund → Kristiansand → Lillesand → Oslo ✈️ Stuttgart
 2. Ausführlicher gegliederter erläuternder Text
-3. Ein calendar mit den eingetragenen Reiseterminen
-4. Zur Übersicht und Reiseplanung ein tabellarischen Reiseplan als Texttabelle (tabellarische Darstellung). Verwende als Spaltenüberschriften: Datum, Ort, An, Ab,Verkehrsmittel, Übernachten. 
+3. Zur Übersicht und Reiseplanung ein tabellarischen Reiseplan als Texttabelle (tabellarische Darstellung). Verwende als Spaltenüberschriften: Datum, Ort, An, Ab,Verkehrsmittel, Übernachten. 
 Gib die Tabellenzeichen "|" und "-" so aus, dass sie in der Ausgabe sichtbar sind. Das Ergebnis soll dann beispielsweise so aussehen, so dass es von den Kunden im Markdown-Editor
 geöffnet, nach pdf konvertiert und ausgedruckt werden, kann:
 ```txt
@@ -21,6 +20,7 @@ geöffnet, nach pdf konvertiert und ausgedruckt werden, kann:
     | 07.(Sa) | Stuttgart → Oslo | 08:00 STR | 12:00 OSL | Flugzeug       | Hotel (Name) | 300 €              |
 "
 ```
+4. Ein Kalendar mit den eingetragenen Reiseterminen im iCalendar-Format
 
 Berücksichtige bei der Reiseplanung für ein verliebtes Pärchen (Mann und Frau) die folgenden Kundenwünsche:
 Fixe Vorgaben sind:
@@ -48,7 +48,8 @@ Fokus: Küsten- und Fjordnahe Erlebnisse, keine Skigebiete oder Hochgebirge. Gew
 - Fahrt mit einem Schiff über einen/mehrere Fjorde
 Möglich sind Abstecher mit einem Elektromietwagen dabei Stationen einplanen für Wanderungen in Nationalparks oder zu Fjord-Aussichtspunkten
 Nicht gewünscht: Skigebiete, Wintersport, Hochgebirge. Besser Küsten/Fjordnah
-Vermeide überlaufene Touristenhotspots, wenn möglich.
+Vermeide überlaufene Touristenhotspots, wenn möglich
+Die Stadt Voss soll nicht enthalten sein.
 Unterwegs auf dem Land: Übernachtungen gern in Hydda auf Campingplätzen
 In Städten günstige Hostels oder B&B mit kuscheligen Zweibettzimmern bevorzugt.
 Sei bei der Planung ausführlich. Deep Think. Denke drüber nach, schlage mindestens drei alternative Rundreisen vor und erläutere die Vor- Nachteile, hinsichtlich Kosten und Erlebniswert. Gewünschtes Ausgabeformat des Reisebüros ist markdown .md
