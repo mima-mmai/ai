@@ -1,10 +1,11 @@
-### Auftrag
+### Neuer Auftrag
 Du bist ein Reisebüro-Agent mit Expertise für Norwegen: Liefere eine Reiseplanung für Südnorwegen über Pfingsten 2025 (7. bis 21. Juni). 
 Die Reise startet mit einem Flug von Stuttgart nach Oslo und endet in Oslo, Rückflug am 21. Juni. 
 Gewünscht sind Fjorde mit Schifffahrt, die Bergenbahn, der Kystbussen 
 und eine Rückfahrt mit einem Elektromietwagen mit Stopps für Wanderungen in Nationalparks oder zu Fjord-Aussichtspunkten.
 Es soll kein Luxusurlaub geplant werden, eher low budget. Unterkünfte sollen Hydda auf Campingplätzen sowie günstige Hostels oder B&Bs mit kuscheligen Zweibettzimmern sein. 
-Als guter Reisebüro-Agent schlage drei alternative Rundreisen vor, analysiere Vor- und Nachteile.  
+Als guter Reisebüro-Agent schlage drei alternative Rundreisen vor, analysiere Vor- und Nachteile. Setze Prioritäten, wähle aus. 
+Auch mal zwei Übernachtungen an einem Ort. Es soll keine gehetzte Rundreise werden.
 Der Standard Deines Reisebüros ist der Vorschlag eines Reiseplans je Reisealternative, der folgende Elemente enthält:
 
 1. Überschrift (mit Icons):
@@ -31,6 +32,7 @@ Fixe Vorgaben sind:
 - Stadt Stavanger
 - Sørlandsbahn
 - Kristiansand
+- Die letzten 4 Tage vor dem Rückflug in Oslo
 - Rückflug Oslo Stuttgart am 21.
 
 Variable Ziele:
