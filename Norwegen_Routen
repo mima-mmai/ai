@@ -1,0 +1,394 @@
+
+### Neuer Auftrag
+Du bist ein Reisebüro-Agent mit Expertise für Norwegen: Liefere eine Reiseplanung für Südnorwegen über Pfingsten 2025 (7. bis 21. Juni). 
+Die Reise startet mit einem Flug von Stuttgart nach Oslo und endet in Oslo, Rückflug am 21. Juni. 
+Gewünscht sind Fjorde mit Schifffahrt, die Bergenbahn, der Kystbussen 
+und eine Rückfahrt mit einem Elektromietwagen mit Stopps für Wanderungen in Nationalparks oder zu Fjord-Aussichtspunkten.
+Es soll kein Luxusurlaub geplant werden, eher low budget. Unterkünfte sollen Hydda auf Campingplätzen sowie günstige Hostels oder B&Bs mit kuscheligen Zweibettzimmern sein. 
+Als guter Reisebüro-Agent schlage drei alternative Rundreisen vor, analysiere Vor- und Nachteile. Setze Prioritäten, wähle aus. 
+Auch mal zwei Übernachtungen an einem Ort. Es soll keine gehetzte Rundreise werden.
+Der Standard Deines Reisebüros ist der Vorschlag eines Reiseplans je Reisealternative, der folgende Elemente enthält:
+
+1. Überschrift (mit Icons):
+z.B. Route-1: Stuttgart ✈️ Oslo → Sørlandsbahn → Stavanger 🚤 Lysefjord → Kystbus → Bergen → Bergenbahn → Voss 🚗 Haugesund → Kristiansand → Lillesand → Oslo ✈️ Stuttgart
+2. Ausführlicher gegliederter erläuternder Text
+3. Zur Übersicht und Reiseplanung ein tabellarischen Reiseplan als Texttabelle (tabellarische Darstellung). Verwende als Spaltenüberschriften: Datum, Ort, An, Ab,Verkehrsmittel, Übernachten. 
+Gib die Tabellenzeichen "|" und "-" so aus, dass sie in der Ausgabe sichtbar sind. Das Ergebnis soll dann beispielsweise so aussehen, so dass es von den Kunden im Markdown-Editor
+geöffnet, nach pdf konvertiert und ausgedruckt werden, kann:
+```txt
+"
+    | Datum   | Ort              | An        | Ab        | Verkehrsmittel | Übernachten  | Kosten für 2 Pers. |
+    | ------- | ---------------- | --------- | --------- | -------------- | ------------ | ------------------ |
+    | 07.(Sa) | Stuttgart → Oslo | 08:00 STR | 12:00 OSL | Flugzeug       | Hotel (Name) | 300 €              |
+"
+```
+4. Ein Kalendar mit den eingetragenen Reiseterminen im iCalendar-Format
+
+Berücksichtige bei der Reiseplanung für ein verliebtes Pärchen (Mann und Frau) die folgenden Kundenwünsche:
+Fixe Vorgaben sind:
+- Flug: Stuttgart - Oslo
+- Bergensbahnen
+- Stadt Bergen
+- Kystbussen
+- Stadt Stavanger
+- Sørlandsbahn
+- Kristiansand
+- Die letzten 4 Tage vor dem Rückflug in Oslo
+- Rückflug Oslo Stuttgart am 21.
+
+Variable Ziele:
+- Eidfjord
+- Flåmbahn
+- Haugesund
+- Lillesand
+- Peikestolen
+- Sognefjord
+- Preikestolen
+- Hardangerfjord
+- Øvre Eidfjord/Hardangervidda 
+- Lærdalsøyri 
+- Nærøyfjord
+- Åndalsnes/Trollstigen 
+- Vågå/Jotunheimen
+
+Fokus: Rundreise mit Küsten- und Fjordnahe Erlebnissen, keine Skigebiete wenig Hochgebirge. 
+
+Gewünscht:
+Fahrt mit einem Schiff über einen/mehrere Fjorde
+Möglich sind Abstecher mit einem Elektromietwagen (bitte Autovermietungsfirma und Abholort und Rückgabestation angeben)
+Stationen/Abstecher für Wanderungen in Nationalparks oder zu Fjord-Aussichtspunkten
+Unterwegs auf dem Land: Übernachtungen gern in Hydda auf Campingplätzen
+In Städten günstige Hostels oder B&B mit kuscheligen Zweibettzimmern bevorzugt.
+
+Nicht gewünscht: Skigebiete, Wintersport, Hochgebirge. Besser Küsten/Fjordnah
+Vermeide überlaufene Touristenhotspots, wenn möglich
+Vermeide organisierte Touren, wenn möglich
+Die Stadt Voss soll nicht enthalten sein.
+Sei bei der Planung ausführlich. Deep Think. Denke drüber nach, schlage mindestens drei alternative Rundreisen vor und erläutere die Vor- Nachteile, hinsichtlich Kosten und Erlebniswert. Gewünschtes Ausgabeformat des Reisebüros ist markdown .md
+25 web pages
+Reiseplanung Südnorwegen Pfingsten 2025
+
+Hier sind drei alternative Rundreisen für ein verliebtes Pärchen, das Südnorwegen vom 7. bis 21. Juni 2025 erkunden möchte. Die Reise startet mit einem Flug von Stuttgart nach Oslo und endet mit dem Rückflug am 21. Juni. Fixe Vorgaben wie die Bergenbahn, Bergen, Kystbussen, Stavanger, Sørlandsbahn, Kristiansand und die letzten vier Tage in Oslo werden berücksichtigt. Variable Ziele wie Fjorde, Nationalparks und Aussichtspunkte sind eingebaut, mit Fokus auf Küsten- und Fjorderlebnisse, günstige Unterkünfte (Hydda, Hostels, B&Bs) und einem entspannten Tempo. Jede Route wird detailliert beschrieben, mit Reiseplan und Kalendar im iCalendar-Format.
+Route-1: Stuttgart ✈️ Oslo → Sørlandsbahn → Kristiansand → Stavanger 🚤 Lysefjord → Kystbussen → Bergen → Bergenbahn → Flåm 🚗 Hardangerfjord → Oslo ✈️ Stuttgart
+Beschreibung
+Anreise und Start in Oslo
+
+Die Reise beginnt mit einem Flug von Stuttgart nach Oslo am 7. Juni. Nach der Ankunft bleibt ein Nachmittag, um die Hauptstadt entspannt zu erkunden – etwa einen Spaziergang entlang der Uferpromenade oder einen Kaffee im Grünerløkka-Viertel.
+Sørlandsbahn nach Kristiansand
+
+Am 8. Juni geht es mit der Sørlandsbahn nach Kristiansand. Diese malerische Zugfahrt führt durch Südnorwegens Küstenlandschaft. In Kristiansand bleibt Zeit für zwei Nächte, um die charmante Stadt und ihre Strände zu genießen.
+Stavanger und Lysefjord
+
+Mit einem Bus geht es am 10. Juni nach Stavanger. Hier steht am 11. Juni eine Fjordfahrt auf dem Lysefjord auf dem Programm – ein Highlight mit Blick auf Preikestolen von unten, ohne den überlaufenen Wanderweg hinauf zu nutzen. Zwei Nächte in Stavanger bieten Raum für Erholung.
+Kystbussen nach Bergen
+
+Am 12. Juni fährt der Kystbussen entlang der Küste nach Bergen. Die Fahrt bietet Ausblicke auf Fjorde und kleine Dörfer. In Bergen bleiben zwei Nächte, um die historische Bryggen und den Fischmarkt zu erkunden.
+Bergenbahn und Flåm
+
+Am 14. Juni fährt die Bergenbahn nach Myrdal, wo auf die Flåmbahn umgestiegen wird. Die Fahrt ins Fjorddorf Flåm ist spektakulär. Eine Nacht in Flåm erlaubt eine kurze Wanderung entlang des Fjords.
+Elektromietwagen zum Hardangerfjord
+
+Am 15. Juni wird in Flåm ein Elektroauto (z. B. bei Hertz) gemietet, um via Eidfjord den Hardangerfjord zu erkunden. Eine Wanderung im Hardangervidda-Nationalpark (leichte Küstennähe) ist möglich. Rückgabe des Autos in Oslo am 17. Juni.
+Rückkehr nach Oslo
+
+Die letzten vier Tage (17.–21. Juni) in Oslo bieten Zeit für Museen (z. B. Wikingerschiffmuseum) und Entspannung.
+Vor- und Nachteile
+
+    Vorteile: Ausgewogenes Tempo, Fjordfahrt auf dem Lysefjord, Flåmbahn als Bonus, Hardangerfjord mit Wanderung. Günstige Verkehrsmittel und Unterkünfte.
+    Nachteile: Weniger variable Ziele abgedeckt (z. B. kein Sognefjord), längere Fahrt mit dem Elektroauto zurück nach Oslo.
+
+Reiseplan
+text
+| Datum   | Ort              | An        | Ab        | Verkehrsmittel | Übernachten          | Kosten für 2 Pers. |
+|---------|------------------|-----------|-----------|----------------|---------------------|-------------------|
+| 07.(Sa) | Stuttgart → Oslo | 08:00 STR | 12:00 OSL | Flugzeug       | Hostel Oslo         | 100 €             |
+| 08.(So) | Oslo → Kristiansand | 09:00 OSL | 13:30 KRS | Sørlandsbahn   | Hydda Camping KRS   | 60 €              |
+| 09.(Mo) | Kristiansand     | -         | -         | -              | Hydda Camping KRS   | 60 €              |
+| 10.(Di) | Kristiansand → Stavanger | 10:00 KRS | 14:00 SVG | Bus          | B&B Stavanger       | 80 €              |
+| 11.(Mi) | Stavanger (Lysefjord) | -    | -         | Schiff         | B&B Stavanger       | 80 € + 50 € Schiff|
+| 12.(Do) | Stavanger → Bergen | 09:00 SVG | 15:00 BGO | Kystbussen    | Hostel Bergen       | 90 €              |
+| 13.(Fr) | Bergen           | -         | -         | -              | Hostel Bergen       | 90 €              |
+| 14.(Sa) | Bergen → Flåm    | 08:30 BGO | 12:00 FLM | Bergenbahn + Flåmbahn | Hydda Camping Flåm | 60 €         |
+| 15.(So) | Flåm → Eidfjord  | 10:00 FLM | 14:00 EID | Elektroauto    | Hydda Camping Eidfjord | 60 € + 50 € Auto |
+| 16.(Mo) | Eidfjord → Oslo  | 09:00 EID | 16:00 OSL | Elektroauto    | Hostel Oslo         | 100 € + 50 € Auto |
+| 17.(Di) | Oslo             | -         | -         | -              | Hostel Oslo         | 100 €             |
+| 18.(Mi) | Oslo             | -         | -         | -              | Hostel Oslo         | 100 €             |
+| 19.(Do) | Oslo             | -         | -         | -              | Hostel Oslo         | 100 €             |
+| 20.(Fr) | Oslo             | -         | -         | -              | Hostel Oslo         | 100 €             |
+| 21.(Sa) | Oslo → Stuttgart | 14:00 OSL | 18:00 STR | Flugzeug       | -                   | -                 |
+
+Gesamtkosten (ca.): 1.290 € (Flüge geschätzt 400 €, Unterkünfte + Verkehrsmittel)
+Kalendar (iCalendar)
+text
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Reisebüro Norwegen//Route 1//DE
+BEGIN:VEVENT
+DTSTART:20250607T080000Z
+DTEND:20250607T120000Z
+SUMMARY:Flug Stuttgart → Oslo
+LOCATION:Stuttgart - Oslo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T090000Z
+DTEND:20250608T133000Z
+SUMMARY:Sørlandsbahn Oslo → Kristiansand
+LOCATION:Oslo - Kristiansand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T100000Z
+DTEND:20250610T140000Z
+SUMMARY:Bus Kristiansand → Stavanger
+LOCATION:Kristiansand - Stavanger
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T090000Z
+DTEND:20250611T130000Z
+SUMMARY:Fjordfahrt Lysefjord
+LOCATION:Stavanger
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T090000Z
+DTEND:20250612T150000Z
+SUMMARY:Kystbussen Stavanger → Bergen
+LOCATION:Stavanger - Bergen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T083000Z
+DTEND:20250614T120000Z
+SUMMARY:Bergenbahn + Flåmbahn → Flåm
+LOCATION:Bergen - Flåm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250615T100000Z
+DTEND:20250615T140000Z
+SUMMARY:Elektroauto Flåm → Eidfjord
+LOCATION:Flåm - Eidfjord
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T090000Z
+DTEND:20250616T160000Z
+SUMMARY:Elektroauto Eidfjord → Oslo
+LOCATION:Eidfjord - Oslo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250621T140000Z
+DTEND:20250621T180000Z
+SUMMARY:Flug Oslo → Stuttgart
+LOCATION:Oslo - Stuttgart
+END:VEVENT
+END:VCALENDAR
+Route-2: Stuttgart ✈️ Oslo → Bergenbahn → Bergen → Kystbussen → Stavanger 🚤 Sognefjord → Kristiansand → Sørlandsbahn 🚗 Lillesand → Oslo ✈️ Stuttgart
+Beschreibung
+Anreise und Bergenbahn
+
+Nach dem Flug am 7. Juni geht es am 8. Juni direkt mit der Bergenbahn nach Bergen. Die siebenstündige Fahrt ist ein Erlebnis mit Fjord- und Bergblicken. Zwei Nächte in Bergen bieten Zeit für die Stadt und eine kurze Wanderung.
+Kystbussen nach Stavanger
+
+Am 10. Juni fährt der Kystbussen nach Stavanger. Zwei Nächte dort ermöglichen eine Fjordfahrt auf dem Sognefjord (via Fähre ab Bergen vorher oder ab Stavanger mit Umstieg), ein Highlight der Reise.
+Kristiansand und Sørlandsbahn
+
+Am 12. Juni geht es per Bus nach Kristiansand. Zwei Nächte dort bieten Erholung und Strandspaziergänge. Am 14. Juni fährt die Sørlandsbahn zurück Richtung Oslo, mit einem Stopp in Lillesand.
+Elektromietwagen und Lillesand
+
+In Kristiansand wird am 14. Juni ein Elektroauto gemietet (z. B. Avis), um nach Lillesand zu fahren. Eine Nacht dort erlaubt eine kleine Wanderung entlang der Küste. Rückgabe in Oslo am 17. Juni.
+Oslo
+
+Die letzten vier Tage in Oslo schließen die Reise ab.
+Vor- und Nachteile
+
+    Vorteile: Sognefjord als Highlight, entspanntes Tempo, Lillesand als Geheimtipp. Bergen früh im Programm.
+    Nachteile: Weniger Nationalpark-Wanderungen, Sognefjord-Fahrt erfordert Planung.
+
+Reiseplan
+text
+| Datum   | Ort              | An        | Ab        | Verkehrsmittel | Übernachten          | Kosten für 2 Pers. |
+|---------|------------------|-----------|-----------|----------------|---------------------|-------------------|
+| 07.(Sa) | Stuttgart → Oslo | 08:00 STR | 12:00 OSL | Flugzeug       | Hostel Oslo         | 100 €             |
+| 08.(So) | Oslo → Bergen    | 08:00 OSL | 15:00 BGO | Bergenbahn     | Hostel Bergen       | 90 €              |
+| 09.(Mo) | Bergen           | -         | -         | -              | Hostel Bergen       | 90 €              |
+| 10.(Di) | Bergen → Stavanger | 09:00 BGO | 15:00 SVG | Kystbussen    | B&B Stavanger       | 80 €              |
+| 11.(Mi) | Stavanger (Sognefjord) | -   | -         | Schiff         | B&B Stavanger       | 80 € + 50 € Schiff|
+| 12.(Do) | Stavanger → Kristiansand | 10:00 SVG | 14:00 KRS | Bus         | Hydda Camping KRS   | 60 €              |
+| 13.(Fr) | Kristiansand     | -         | -         | -              | Hydda Camping KRS   | 60 €              |
+| 14.(Sa) | Kristiansand → Lillesand | 10:00 KRS | 11:00 LIL | Elektroauto | Hydda Camping LIL   | 60 € + 50 € Auto  |
+| 15.(So) | Lillesand        | -         | -         | -              | Hydda Camping LIL   | 60 €              |
+| 16.(Mo) | Lillesand → Oslo | 09:00 LIL | 13:00 OSL | Elektroauto    | Hostel Oslo         | 100 € + 50 € Auto |
+| 17.(Di) | Oslo             | -         | -         | -              | Hostel Oslo         | 100 €             |
+| 18.(Mi) | Oslo             | -         | -         | -              | Hostel Oslo         | 100 €             |
+| 19.(Do) | Oslo             | -         | -         | -              | Hostel Oslo         | 100 €             |
+| 20.(Fr) | Oslo             | -         | -         | -              | Hostel Oslo         | 100 €             |
+| 21.(Sa) | Oslo → Stuttgart | 14:00 OSL | 18:00 STR | Flugzeug       | -                   | -                 |
+
+Gesamtkosten (ca.): 1.280 €
+Kalendar (iCalendar)
+text
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Reisebüro Norwegen//Route 2//DE
+BEGIN:VEVENT
+DTSTART:20250607T080000Z
+DTEND:20250607T120000Z
+SUMMARY:Flug Stuttgart → Oslo
+LOCATION:Stuttgart - Oslo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T080000Z
+DTEND:20250608T150000Z
+SUMMARY:Bergenbahn Oslo → Bergen
+LOCATION:Oslo - Bergen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T090000Z
+DTEND:20250610T150000Z
+SUMMARY:Kystbussen Bergen → Stavanger
+LOCATION:Bergen - Stavanger
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T090000Z
+DTEND:20250611T130000Z
+SUMMARY:Fjordfahrt Sognefjord
+LOCATION:Stavanger
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T100000Z
+DTEND:20250612T140000Z
+SUMMARY:Bus Stavanger → Kristiansand
+LOCATION:Stavanger - Kristiansand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T100000Z
+DTEND:20250614T110000Z
+SUMMARY:Elektroauto Kristiansand → Lillesand
+LOCATION:Kristiansand - Lillesand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T090000Z
+DTEND:20250616T130000Z
+SUMMARY:Elektroauto Lillesand → Oslo
+LOCATION:Lillesand - Oslo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250621T140000Z
+DTEND:20250621T180000Z
+SUMMARY:Flug Oslo → Stuttgart
+LOCATION:Oslo - Stuttgart
+END:VEVENT
+END:VCALENDAR
+Route-3: Stuttgart ✈️ Oslo → Sørlandsbahn → Kristiansand → Stavanger 🚤 Nærøyfjord → Kystbussen → Bergen → Bergenbahn 🚗 Haugesund → Oslo ✈️ Stuttgart
+Beschreibung
+Anreise und Kristiansand
+
+Nach dem Flug am 7. Juni fährt die Sørlandsbahn am 8. Juni nach Kristiansand. Zwei Nächte dort bieten einen entspannten Start.
+Stavanger und Nærøyfjord
+
+Am 10. Juni geht es per Bus nach Stavanger. Am 11. Juni steht eine Fjordfahrt auf dem Nærøyfjord an (via Fähre ab Bergen später), ein schmaler, ruhiger Fjord abseits der Massen.
+Kystbussen nach Bergen
+
+Am 12. Juni fährt der Kystbussen nach Bergen. Zwei Nächte dort erlauben Stadtbesichtigung und eine Wanderung.
+Bergenbahn und Haugesund
+
+Am 14. Juni fährt die Bergenbahn zurück nach Oslo, mit einem Mietwagen-Abstecher (Hertz, Oslo) nach Haugesund am 15. Juni. Eine Nacht dort bietet eine Küstenwanderung.
+Rückkehr nach Oslo
+
+Am 16. Juni Rückfahrt nach Oslo, wo die letzten vier Tage verbracht werden.
+Vor- und Nachteile
+
+    Vorteile: Nærøyfjord als Geheimtipp, Haugesund als Abwechslung, günstig und entspannt.
+    Nachteile: Weniger Fjordvielfalt, Haugesund erfordert längere Autofahrt.
+
+Reiseplan
+text
+| Datum   | Ort              | An        | Ab        | Verkehrsmittel | Übernachten          | Kosten für 2 Pers. |
+|---------|------------------|-----------|-----------|----------------|---------------------|-------------------|
+| 07.(Sa) | Stuttgart → Oslo | 08:00 STR | 12:00 OSL | Flugzeug       | Hostel Oslo         | 100 €             |
+| 08.(So) | Oslo → Kristiansand | 09:00 OSL | 13:30 KRS | Sørlandsbahn   | Hydda Camping KRS   | 60 €              |
+| 09.(Mo) | Kristiansand     | -         | -         | -              | Hydda Camping KRS   | 60 €              |
+| 10.(Di) | Kristiansand → Stavanger | 10:00 KRS | 14:00 SVG | Bus          | B&B Stavanger       | 80 €              |
+| 11.(Mi) | Stavanger (Nærøyfjord) | -   | -         | Schiff         | B&B Stavanger       | 80 € + 50 € Schiff|
+| 12.(Do) | Stavanger → Bergen | 09:00 SVG | 15:00 BGO | Kystbussen    | Hostel Bergen       | 90 €              |
+| 13.(Fr) | Bergen           | -         | -         | -              | Hostel Bergen       | 90 €              |
+| 14.(Sa) | Bergen → Oslo    | 08:00 BGO | 15:00 OSL | Bergenbahn     | Hostel Oslo         | 100 €             |
+| 15.(So) | Oslo → Haugesund | 10:00 OSL | 14:00 HAU | Elektroauto    | Hydda Camping HAU   | 60 € + 50 € Auto  |
+| 16.(Mo) | Haugesund → Oslo | 09:00 HAU | 13:00 OSL | Elektroauto    | Hostel Oslo         | 100 € + 50 € Auto |
+| 17.(Di) | Oslo             | -         | -         | -              | Hostel Oslo         | 100 €             |
+| 18.(Mi) | Oslo             | -         | -         | -              | Hostel Oslo         | 100 €             |
+| 19.(Do) | Oslo             | -         | -         | -              | Hostel Oslo         | 100 €             |
+| 20.(Fr) | Oslo             | -         | -         | -              | Hostel Oslo         | 100 €             |
+| 21.(Sa) | Oslo → Stuttgart | 14:00 OSL | 18:00 STR | Flugzeug       | -                   | -                 |
+
+Gesamtkosten (ca.): 1.270 €
+Kalendar (iCalendar)
+text
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Reisebüro Norwegen//Route 3//DE
+BEGIN:VEVENT
+DTSTART:20250607T080000Z
+DTEND:20250607T120000Z
+SUMMARY:Flug Stuttgart → Oslo
+LOCATION:Stuttgart - Oslo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T090000Z
+DTEND:20250608T133000Z
+SUMMARY:Sørlandsbahn Oslo → Kristiansand
+LOCATION:Oslo - Kristiansand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T100000Z
+DTEND:20250610T140000Z
+SUMMARY:Bus Kristiansand → Stavanger
+LOCATION:Kristiansand - Stavanger
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T090000Z
+DTEND:20250611T130000Z
+SUMMARY:Fjordfahrt Nærøyfjord
+LOCATION:Stavanger
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T090000Z
+DTEND:20250612T150000Z
+SUMMARY:Kystbussen Stavanger → Bergen
+LOCATION:Stavanger - Bergen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T080000Z
+DTEND:20250614T150000Z
+SUMMARY:Bergenbahn Bergen → Oslo
+LOCATION:Bergen - Oslo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250615T100000Z
+DTEND:20250615T140000Z
+SUMMARY:Elektroauto Oslo → Haugesund
+LOCATION:Oslo - Haugesund
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T090000Z
+DTEND:20250616T130000Z
+SUMMARY:Elektroauto Haugesund → Oslo
+LOCATION:Haugesund - Oslo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250621T140000Z
+DTEND:20250621T180000Z
+SUMMARY:Flug Oslo → Stuttgart
+LOCATION:Oslo - Stuttgart
+END:VEVENT
+END:VCALENDAR
+Empfehlung und Analyse
+Prioritäten
+
+    Fjord-Erlebnisse: Alle Routen bieten eine Fjordfahrt (Lysefjord, Sognefjord, Nærøyfjord).
+    Entspanntes Tempo: Route-1 und Route-2 haben mehr Doppelübernachtungen.
+    Kosten: Route-3 ist minimal günstiger, aber alle liegen bei ca. 1.270–1.290 €.
+    Erlebniswert: Route-1 punktet mit Flåmbahn und Hardangerfjord, Route-2 mit Sognefjord, Route-3 mit Nærøyfjord.
+
+Auswahl
+
+Route-1 wird empfohlen. Sie bietet die beste Balance aus Fjordvielfalt (Lysefjord, Hardangerfjord), der Flåmbahn als Bonus und einem entspannten Tempo. Die Wanderung im Hardangervidda ist ein Pluspunkt für Naturfreunde, und die Kosten bleiben im Budget.
+
+Dieser Plan erfüllt die Wünsche eines verliebten Pärchens für eine romantische, erschwingliche Reise durch Südnorwegens Fjorde und Küsten!
+How can Grok help?
